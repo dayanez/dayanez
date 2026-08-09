@@ -1,4 +1,3 @@
-My Name is dayanez. Currently spending all my free-time coding a graphics rendering engine called Dante. Doing it to learn c++ and systems deeply + graphics. It's dope maybe will make a game with it one day. 
-
+My Name is dayanez. Currently spending all my free-time coding a graphics rendering engine called Dante potentially game engine in future who knows.
 
 I had another GitHub but wanted to start fresh , no ai influence on my code or anything. Just me and the cpu + gpu
